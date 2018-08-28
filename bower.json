@@ -1,0 +1,22 @@
+{
+  "name": "allengu",
+  "description": "goo",
+  "main": "index.js",
+  "authors": [
+    "allen <allengu93@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AllenGu93/angularjs1.4.14",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "intro.js": "introjs#^1.0.0",
+    "bootstrap": "^4.1.3"
+  }
+}
